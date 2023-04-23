@@ -10,6 +10,11 @@
       "StackName": "amplify-servcommercelab-dev-173527",
       "StackId": "arn:aws:cloudformation:us-east-2:230395760767:stack/amplify-servcommercelab-dev-173527/26b1c5a0-e227-11ed-91df-0aaab9da7ff3",
       "AmplifyAppId": "d29vyotq716hta"
+    },
+    "categories": {
+      "auth": {
+        "servcommercelabbb771f4b": {}
+      }
     }
   }
 }
